@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Dark Chocolate Squares",
+    "description": "Indulge in the rich, velvety texture of these classic dark chocolate squares, crafted for an intense, full-bodied cocoa experience.",
+    "price": 10,
+    "oldPrice": 13,
+    "image": "assets/Chocolate.png",
+    "category" : "Chocolate"
+  },{
+
+  "id" : 2,
+  "name": "Milk Chocolate Splash",
+  "description" : "Creamy milk chocolate in an artistic splash, perfect for satisfying a sweet tooth and showcasing the smoothness of our premium milk chocolate.",
+  "price": 8,
+  "oldPrice": 10,
+  "image" : "assets/Chocolate1.png",
+  "category" : "Chocolate"
+  },{
+  "id" : 3,
+  "name": "Dark Chocolate Chunk Stack",
+  "description": "A stack of luscious dark chocolate chunks, offering a bold and rich flavor that’s perfect for savoring or adding to your favorite dessert.",
+  "price" : 15,
+  "oldPrice": 18,
+  "image": "assets/Chocolate2.png",
+  "category" : "Chocolate"
+},{
+  "id" : 4,
+  "name": "Half-Eaten Milk Chocolate Bar",
+  "description": "A delicious milk chocolate bar wrapped in silver foil, with a bite taken out for a tempting preview of its creamy, melt-in-your-mouth taste.",
+  "price" : 20,
+  "oldPrice": 22,
+  "image": "assets/Chocolate3.png",
+  "category" : "Chocolate"
+},{
+  "id" : 5,
+  "name": "Chocolate Explosion",
+  "description": "A burst of pure chocolate goodness, with cocoa nibs scattered around. Perfect for those looking for an intense and playful chocolate experience.",
+  "price" : 15,
+  "oldPrice": 18,
+  "image": "assets/Chocolate4.png",
+  "category" : "Chocolate"
+},{
+  "id" : 6,
+  "name": "Assorted Chocolate Tray",
+  "description": "An assortment of handcrafted chocolates, each uniquely filled and topped with elegant decorations. A delightful variety of textures and flavors in one plate.",
+  "price" : 15,
+  "oldPrice": 18,
+  "image": "assets/Chocolate5.png",
+  "category" : "Chocolate"
+},{
+  "id" : 7,
+  "name": "Classic Chocolate Chip Cookie",
+  "description": "A perfectly baked, classic chocolate chip cookie with crispy edges and a soft, chewy center. Filled with rich chocolate chips, it’s ideal for a comforting treat anytime.",
+  "price" : 5,
+  "oldPrice": 8,
+  "image": "assets/Cookies.png",
+  "category" : "Cookies"
+},{
+  "id" : 8,
+  "name": "Chunky Chocolate Delight",
+  "description": "Chunky chocolate pieces give this cookie its delightful bite. Soft inside with a hint of crunch on the outside, it's a must-have for chocolate lovers.",
+  "price" : 8,
+  "oldPrice": 10,
+  "image": "assets/Cookies1.png",
+  "category" : "Cookies"
+},{
+  "id" : 9,
+  "name": "Triple Chocolate Chunk Cookies",
+  "description": "Soft and chewy cookies filled with triple chocolate chunks for a delightful mix of milk, dark, and white chocolate flavors. A true delight for chocoholics.",
+  "price" : 10,
+  "oldPrice": 12,
+  "image": "assets/Cookies2.png",
+  "category" : "Cookies"
+},{
+  "id" : 10,
+  "name": "Plate of Chocolate Chip Cookies",
+  "description": "Freshly baked chocolate chip cookies stacked on a plate, ready to share. Crispy, buttery, and loaded with semi-sweet chocolate chips, perfect for a gathering.",
+  "price" : 5.9,
+  "oldPrice": 8.9,
+  "image": "assets/Cookies3.png",
+  "category" : "Cookies"
+},{
+  "id" : 11,
+  "name": "Double Chocolate Fudge Cookie",
+  "description": "Decadent double chocolate cookies with a soft center and a crispy edge, perfect for anyone who loves rich, fudge flavors.",
+  "price" : 15,
+  "oldPrice": 18,
+  "image": "assets/Cookies4.png",
+  "category" : "Cookies"
+},{
+  "id" : 12,
+  "name": "Stacked Chocolate Chip Cookies",
+  "description": "Classic chocolate chip cookies stacked high, with a golden-brown color and plenty of chocolate chips. Enjoy these with a glass of milk for the ultimate snack.",
+  "price" : 8,
+  "oldPrice": 11,
+  "image": "assets/Cookies5.png",
+  "category" : "Cookies"
+},{
+  "id" : 13,
+  "name": "Single Raspberry Macaroon",
+  "description": "A perfectly baked macaroon with a light raspberry flavor and a creamy filling. Sweet, delicate, and bursting with the taste of fresh berries.",
+  "price" : 15,
+  "oldPrice": 18,
+  "image": "assets/Macaroons.png",
+  "category" : "Macaroons"
+},{
+  "id" : 14,
+  "name": "Pastel Macaroon Trio",
+  "description": "A mix of classic pastel-colored macaroons – delicate flavors of raspberry and lemon blend perfectly. The crispy shell and soft filling make every bite an elegant treat.",
+  "price" : 20,
+  "oldPrice": 25,
+  "image": "assets/Macaroons1.png",
+  "category" : "Macaroons"
+},{
+  "id" : 15,
+  "name": "Strawberry Delight Macaroon",
+  "description": "This single pink macaroon with a strawberry-infused filling offers the perfect balance between sweetness and a hint of tartness, delightful for any sweet craving.",
+  "price" : 15,
+  "oldPrice": 18,
+  "image": "assets/Macaroons3.png",
+  "category" : "Macaroons"
+},{
+  "id" : 16,
+  "name": "Double Raspberry Macaroon",
+  "description": "A soft pink macaroon with a smooth raspberry filling. Perfectly balanced sweetness, ideal for pairing with tea or coffee.",
+  "price" : 13,
+  "oldPrice": 18,
+  "image": "assets/Macaroons2.png",
+  "category" : "Macaroons"
+},{
+  "id" : 17,
+  "name": "Bitten Berry Macaroon:",
+  "description": "A pink macaroon with a berry filling, with a bite taken out, showing off the delicate shell and creamy inside – a taste of berry goodness in every nibble.",
+  "price" : 14,
+  "oldPrice": 20,
+  "image": "assets/Macaroons4.png",
+  "category" : "Macaroons"
+},{
+  "id" : 18,
+  "name": "Colorful Macaroon Collection",
+  "description": "A vibrant assortment of macaroons in various flavors – from vanilla and blueberry to lemon and raspberry. Crisp on the outside with creamy fillings, perfect for satisfying different tastes.",
+  "price" : 15,
+  "oldPrice": 18,
+  "image": "assets/Macaroons5.png",
+  "category" : "Macaroons"
+}
+]
